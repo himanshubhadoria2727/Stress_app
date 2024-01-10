@@ -1,0 +1,12 @@
+{
+  "name": "stressaway-1",
+  "version": "1.0.0",
+  "description": "\u0000 \u0000 #This is the readme file for StressAway site.  WE are up for supporting the students : )",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
